@@ -4,5 +4,7 @@ public class Namit {
         int a = 0;
         a= 1+2;
         System.out.println(a);
+        int b = 12;
+        System.out.println(b);
     }
 }
