@@ -6,4 +6,7 @@ public class Kanika {
     public static void aNewFunction(){
         System.out.println("This is a new function");
     }
+    public static void secondNewFunction(){
+        System.out.println("I am a new second function");
+    }
 }
